@@ -10,7 +10,7 @@ public class Main {
 		items = ("Ich packe in meinen Koffer ein Netzteil für mein Telefon.");
 		
 	    items += " und eine Zahnb�rste.";
-	    items += " und ein sixpack pepsi light";
+	    items += " und ein kuscheltier";
 	    System.out.println(items);
 	};
 }
