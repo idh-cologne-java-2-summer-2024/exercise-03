@@ -8,7 +8,7 @@ public class Main {
 		// Wer hätte gedacht dass es dazu einen Wikipedia-Artikel gibt?
 		System.out.println("Ich packe in meinen Koffer ein Netzteil für mein Telefon.");
 		System.out.println("Ich packe in meinen Koffer ein Netzteil für mein Telefon und eine Wasserflasche.");
-		
+		//* Wasserflasche hinzugefügt
 	    
 	};
 }
