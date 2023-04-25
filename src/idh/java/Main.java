@@ -6,12 +6,9 @@ public class Main {
 		
 		// Inspiriert von: https://de.wikipedia.org/wiki/Kofferpacken
 		// Wer hätte gedacht dass es dazu einen Wikipedia-Artikel gibt?
-		String items;
-		items = ("Ich packe in meinen Koffer ein Netzteil für mein Telefon.");
+		System.out.println("Ich packe in meinen Koffer ein Netzteil für mein Telefon.");
+		System.out.println("Ich packe in meinen Koffer ein Netzteil für mein Telefon und eine Wasserflasche.");
 		
-	    items += " und eine Zahnb�rste.";
-	    items += " und ein kuscheltier";
-	    items += "und eine Wasserflasche";
-	    System.out.println(items);
+	    
 	};
 }
