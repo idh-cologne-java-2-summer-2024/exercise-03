@@ -11,6 +11,7 @@ public class Main {
 		
 	    items += " und eine Zahnb�rste.";
 	    items += " und ein kuscheltier";
+	    items += "und eine Wasserflasche";
 	    System.out.println(items);
 	};
 }
