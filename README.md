@@ -2,12 +2,12 @@ Softwaretechnologie: Java 2
 
 # Übung 3
 
-In dieser Übung werden Sie einen Merge-Konflikt beheben. Dazu müssen wir einen Merge-Konflikt provozieren. Die dieswöchige Übung kommt also in zwei Teilen, die Sie **zu zwei unterschiedlichen Zeiten** bearbeiten müssen.
+In dieser Übung werden Sie einen Merge-Konflikt beheben. Dazu müssen wir zuerst einen Merge-Konflikt provozieren. Die dieswöchige Übung kommt also in zwei Teilen, die Sie **zu zwei unterschiedlichen Zeiten** bearbeiten müssen.
 Dazu machen Sie Ihre Änderungen diesmal nicht auf einem eigenen Branch, sondern im `main`-Branch.
 
 ## Teil 1
 
-Bitte erledigen Sie Teil 1 **vor Sonntag, 23.04., 21 Uhr**.
+Bitte erledigen Sie Teil 1 **vor Sonntag, 28.04., 21 Uhr**.
 
 ### a) Repository klonen und Eclipse-Projekt anlegen
 
@@ -20,13 +20,15 @@ In der Klasse `idh.java.Main` befindet sich eine `main`-Methode, die nichts ande
 Fügen Sie der Liste der zu packenden Gegenstände einen weiteren (noch nicht genannten) hinzu, so dass der Satz z.B. lautet: "Ich packe in meinen Koffer ein Netzteil für mein Telefon und ein Telefon."
 
 ### c) Commit
-Committen Sie alle Ihre Änderungen am Quellcode im `main`-Branch, **ohne sie direkt zu pushen**. (Wenn Sie den Push doch versuchen, sollten Sie eine Fehlermeldung bekommen, da ich das pushen erst am Sonntagabend freischalten werde).
+Committen Sie alle Ihre Änderungen am Quellcode im `main`-Branch, **ohne direkt zu pushen**. (Wenn Sie den Push doch versuchen, sollten Sie eine Fehlermeldung bekommen, da ich das pushen erst am Sonntagabend freischalten werde).
+
+Die Situation ist dann, dass alle Studierenden einen eigenen, voneinander unabhängigen Commit gemacht haben. Alle diese Commits sind auf dem gleichen Branch, aber auf verschiedenen Computern, so dass git noch nichts von diesen Branches weiß.
 
 
 
 ## Teil 2
 
-Bitte erledigen Sie Teil 2 **nach Sonntag, 23.04., 21 Uhr** (und vor der nächsten Sitzung am Mittwoch, 26.04.).
+Bitte erledigen Sie Teil 2 **nach Sonntag, 28.04., 21 Uhr** (und vor der nächsten Sitzung am Mittwoch, 26.04.).
 
 ### d) Push
 Pushen Sie (über das Kontextmenü) ihre Änderungen im `main`-Branch zum Server. Dies sollte einen Merge-Konflikt auslösen. 
