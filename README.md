@@ -7,7 +7,7 @@ Dazu machen Sie Ihre Änderungen diesmal nicht auf einem eigenen Branch, sondern
 
 ## Teil 1
 
-Bitte erledigen Sie Teil 1 **vor Sonntag, 28.04., 21 Uhr**.
+Bitte erledigen Sie Teil 1 **bis Dienstag, 30.04., 23:59 Uhr**.
 
 ### a) Repository klonen und Eclipse-Projekt anlegen
 
@@ -28,7 +28,7 @@ Die Situation ist dann, dass alle Studierenden einen eigenen, voneinander unabh�
 
 ## Teil 2
 
-Bitte erledigen Sie Teil 2 **nach Sonntag, 28.04., 21 Uhr** (und vor der nächsten Sitzung am Mittwoch, 26.04.).
+Bitte erledigen Sie Teil 2 **ab Mittwoch, 1.5., 10 Uhr** (und vor der nächsten Sitzung am Mittwoch, 8. Mai).
 
 ### d) Push
 Pushen Sie (über das Kontextmenü) ihre Änderungen im `main`-Branch zum Server. Dies sollte einen Merge-Konflikt auslösen. 
