@@ -7,7 +7,7 @@ public class Main {
 
 
 
-    	System.out.println("Ich packe in meinen Koffer ein Netzteil für mein Telefon, eine Gartenschere, einen doppelten Boden, meinen Laptop, und eine Socke und eine neue Zahnbuerste, dazu eine Sitar, den zweiten Socken und ein Bügeleisen meine Kopfhörer, einen Chociatto, ein Schachbrett und meine Hunde sowie ein Schwimmtier und ein Baummkuchen. Eine große Tube Zahnbelag darf allerdings auch nicht fehlen. Außerdem eine Ukuklele mit Stimmgerät");
+    	System.out.println("Ich packe in meinen Koffer ein Netzteil für mein Telefon, eine Gartenschere, einen doppelten Boden, meinen Laptop, und eine Socke und eine neue Zahnbuerste, dazu eine Sitar, den zweiten Socken und ein Bügeleisen meine Kopfhörer, einen Chociatto, ein Schachbrett und meine Hunde sowie ein Schwimmtier und ein Baummkuchen. Eine große Tube Zahnbelag darf allerdings auch nicht fehlen. Außerdem eine Ukuklele mit Stimmgerät und ein Donut");
 	}
 }
 	
